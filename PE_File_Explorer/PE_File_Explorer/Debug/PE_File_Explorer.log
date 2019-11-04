@@ -1,0 +1,12 @@
+﻿Build started 21-04-2011 00:10:13.
+     1>Project "F:\PE_File_Explorer\PE_File_Explorer\PE_File_Explorer.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\pe_file_explorer\pe_file_explorer\main.cpp(265): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\io.h(243) : see declaration of '_open'
+     1>Done Building Project "F:\PE_File_Explorer\PE_File_Explorer\PE_File_Explorer.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.84
